@@ -1,6 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-echo the school is open
-=======
-echo school
->>>>>>> master
+echo The school is open
